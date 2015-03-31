@@ -2,3 +2,4 @@
 * text=auto
 
 *.java text
+*.xml text
